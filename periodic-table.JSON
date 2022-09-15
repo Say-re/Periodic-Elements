@@ -1,0 +1,77 @@
+[
+  {
+    "atomicMass": 1.0080,
+    "atomicNumber": "1",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 20.28
+    },
+    "category": "nonmetal",
+    "commonName": "Hydrogen",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 0.00008988
+    },
+    "discovery": "1766",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "1"
+      }
+    ],
+    "generalState": "gas",
+    "group": "1",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 13.81
+    },
+    "period": "1",
+    "symbol": "H"
+  },
+  {
+    "atomicMass": 4.00260,
+    "atomicNumber": "2",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 4.22
+    },
+    "category": "noble gas",
+    "commonName": "Helium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 0.0001785
+    },
+    "discovery": "1868",
+    "generalState": "gas",
+    "group": "18",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 0.95
+    },
+    "period": "1",
+    "symbol": "He"
+  },
+  {
+    "atomicMass": 6.9410,
+    "atomicNumber": "3",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1615
+    },
+    "category": "Alkali metals",
+    "commonName": "Lithium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 0.534
+    },
+    "discovery": "1817",
+    "generalState": "solid",
+    "group": "1",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 453.65
+    },
+    "period": "2",
+    "symbol": "Li"
+  }
+]
