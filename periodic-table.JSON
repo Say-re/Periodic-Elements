@@ -7,7 +7,7 @@
       "value": 20.28
     },
     "category": "nonmetal",
-    "commonName": "Hydrogen",
+    "commonName": "hydrogen",
     "density": {
       "unitOfMeasurement": "g/cm3",
       "value": 0.00008988
@@ -36,12 +36,18 @@
       "value": 4.22
     },
     "category": "noble gas",
-    "commonName": "Helium",
+    "commonName": "helium",
     "density": {
       "unitOfMeasurement": "g/cm3",
       "value": 0.0001785
     },
     "discovery": "1868",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      }
+    ],
     "generalState": "gas",
     "group": "18",
     "meltingPoint": {
@@ -58,13 +64,23 @@
       "unitOfMeasurement": "K",
       "value": 1615
     },
-    "category": "Alkali metals",
+    "category": "alkali metals",
     "commonName": "Lithium",
     "density": {
       "unitOfMeasurement": "g/cm3",
       "value": 0.534
     },
     "discovery": "1817",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "1"
+      }
+    ],
     "generalState": "solid",
     "group": "1",
     "meltingPoint": {
@@ -81,13 +97,23 @@
       "unitOfMeasurement": "K",
       "value": 2744
     },
-    "category": "Alkali metals",
+    "category": "alkaline earth metals",
     "commonName": "Beryllium",
     "density": {
       "unitOfMeasurement": "g/cm3",
       "value": 1.85
     },
     "discovery": "1798",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      }
+    ],
     "generalState": "solid",
     "group": "2",
     "meltingPoint": {
@@ -96,5 +122,42 @@
     },
     "period": "2",
     "symbol": "Be"
+  },
+  {
+    "atomicMass": "Boron",
+    "atomicNumber": "5",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 4273
+    },
+    "category": "metalloid",
+    "commonName": "Boron",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 2.37
+    },
+    "discovery": "1808",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "13",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 2348
+    },
+    "period": "2",
+    "symbol": "B"
   }
 ]
