@@ -131,7 +131,7 @@
       "value": 4273
     },
     "category": "metalloid",
-    "commonName": "Boron",
+    "commonName": "boron",
     "density": {
       "unitOfMeasurement": "g/cm3",
       "value": 2.37
@@ -159,5 +159,42 @@
     },
     "period": "2",
     "symbol": "B"
+  },
+  {
+    "atomicMass": "12.011",
+    "atomicNumber": "6",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 4098
+    },
+    "category": "nonmetal",
+    "commonName": "carbon",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 2.2670
+    },
+    "discovery": "Prehistory",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "2"
+      }
+    ],
+    "generalState": "solid",
+    "group": "14",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3823
+    },
+    "period": "2",
+    "symbol": "C"
   }
 ]
