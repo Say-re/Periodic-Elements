@@ -73,5 +73,28 @@
     },
     "period": "2",
     "symbol": "Li"
+  },
+  {
+    "atomicMass": 9.012183,
+    "atomicNumber": "4",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 2744
+    },
+    "category": "Alkali metals",
+    "commonName": "Beryllium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 1.85
+    },
+    "discovery": "1798",
+    "generalState": "solid",
+    "group": "2",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1560
+    },
+    "period": "2",
+    "symbol": "Be"
   }
 ]
