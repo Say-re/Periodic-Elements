@@ -1,5 +1,5 @@
 {
-  "atomicMass": "",
+  "atomicMass": ,
   "atomicNumber": "",
   "boilingPoint": {
     "unitOfMeasurement": "K",
