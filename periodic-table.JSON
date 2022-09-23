@@ -5146,5 +5146,259 @@
     "period": "6",
     "symbol": "Bi"
   },
-
+  {
+    "atomicMass": 208.98243,
+    "atomicNumber": "84",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1235
+    },
+    "category": "metalloid",
+    "commonName": "polonium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 9.32
+    },
+    "discovery": "1898",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "4"
+      }
+    ],
+    "generalState": "solid",
+    "group": "16",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 527
+    },
+    "period": "6",
+    "symbol": "Po"
+  },
+  {
+    "atomicMass": 209.98715,
+    "atomicNumber": "85",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 610
+    },
+    "category": "halogen",
+    "commonName": "astatine",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 7
+    },
+    "discovery": "1940",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "5"
+      }
+    ],
+    "generalState": "solid",
+    "group": "17",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 575
+    },
+    "period": "6",
+    "symbol": "At"
+  },
+  {
+    "atomicMass": 222.01758,
+    "atomicNumber": "86",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 211.45
+    },
+    "category": "noble gas",
+    "commonName": "radon",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 0.00973
+    },
+    "discovery": "1900",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      }
+    ],
+    "generalState": "solid",
+    "group": "18",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 202
+    },
+    "period": "6",
+    "symbol": "Rn"
+  }
 ]
