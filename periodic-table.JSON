@@ -7374,7 +7374,7 @@
       }
     ],
     "generalState": "solid",
-    "group": "6",
+    "group": "7",
     "meltingPoint": {
       "unitOfMeasurement": "K",
       "value": "N/A"
@@ -7471,7 +7471,7 @@
       }
     ],
     "generalState": "solid",
-    "group": "7",
+    "group": "8",
     "meltingPoint": {
       "unitOfMeasurement": "K",
       "value": "N/A"
@@ -7568,7 +7568,7 @@
       }
     ],
     "generalState": "solid",
-    "group": "8",
+    "group": "9",
     "meltingPoint": {
       "unitOfMeasurement": "K",
       "value": "N/A"
@@ -7665,7 +7665,7 @@
       }
     ],
     "generalState": "solid",
-    "group": "9",
+    "group": "10",
     "meltingPoint": {
       "unitOfMeasurement": "K",
       "value": "N/A"
@@ -7762,7 +7762,7 @@
       }
     ],
     "generalState": "solid",
-    "group": "10",
+    "group": "11",
     "meltingPoint": {
       "unitOfMeasurement": "K",
       "value": "N/A"
@@ -7859,12 +7859,618 @@
       }
     ],
     "generalState": "solid",
-    "group": "11",
+    "group": "12",
     "meltingPoint": {
       "unitOfMeasurement": "K",
       "value": "N/A"
     },
     "period": "7",
     "symbol": "Cn"
+  },
+  {
+    "atomicMass": 286.182,
+    "atomicNumber": "113",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "category": "post-transition metal",
+    "commonName": "nihonium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": "N/A"
+    },
+    "discovery": "2004",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "14"
+      },
+      {
+        "shell": "6d",
+        "value": "10"
+      },
+      {
+        "shell": "7p",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "13",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "period": "7",
+    "symbol": "Nh"
+  },
+  {
+    "atomicMass": 290.192,
+    "atomicNumber": "114",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "category": "post-transition metal",
+    "commonName": "flerovium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": "N/A"
+    },
+    "discovery": "1998",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "14"
+      },
+      {
+        "shell": "6d",
+        "value": "10"
+      },
+      {
+        "shell": "7p",
+        "value": "2"
+      }
+    ],
+    "generalState": "solid",
+    "group": "14",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "period": "7",
+    "symbol": "Fl"
+  },
+  {
+    "atomicMass": 290.196,
+    "atomicNumber": "115",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "category": "post-transition metal",
+    "commonName": "moscovium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": "N/A"
+    },
+    "discovery": "2003",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "14"
+      },
+      {
+        "shell": "6d",
+        "value": "10"
+      },
+      {
+        "shell": "7p",
+        "value": "3"
+      }
+    ],
+    "generalState": "solid",
+    "group": "15",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "period": "7",
+    "symbol": "Mc"
+  },
+  {
+    "atomicMass": 293.205,
+    "atomicNumber": "116",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "category": "post-transition metal",
+    "commonName": "livermorium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": "N/A"
+    },
+    "discovery": "2000",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "14"
+      },
+      {
+        "shell": "6d",
+        "value": "10"
+      },
+      {
+        "shell": "7p",
+        "value": "4"
+      }
+    ],
+    "generalState": "solid",
+    "group": "16",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "period": "7",
+    "symbol": "Lv"
+  },
+  {
+    "atomicMass": 294.211,
+    "atomicNumber": "117",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "category": "halogen",
+    "commonName": "tennessine",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": "N/A"
+    },
+    "discovery": "2010",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "14"
+      },
+      {
+        "shell": "6d",
+        "value": "10"
+      },
+      {
+        "shell": "7p",
+        "value": "5"
+      }
+    ],
+    "generalState": "solid",
+    "group": "17",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "period": "7",
+    "symbol": "Ts"
+  },
+  {
+    "atomicMass": 295.216,
+    "atomicNumber": "118",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "category": "noble gas",
+    "commonName": "oganesson",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": "N/A"
+    },
+    "discovery": "2006",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "14"
+      },
+      {
+        "shell": "6d",
+        "value": "10"
+      },
+      {
+        "shell": "7p",
+        "value": "6"
+      }
+    ],
+    "generalState": "solid",
+    "group": "18",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "period": "7",
+    "symbol": "Og"
   }
 ]
