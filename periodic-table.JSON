@@ -5400,5 +5400,1598 @@
     },
     "period": "6",
     "symbol": "Rn"
+  },
+  {
+    "atomicMass": 223.01973,
+    "atomicNumber": "87",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 950
+    },
+    "category": "alkali metal",
+    "commonName": "francium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": "N/A"
+    },
+    "discovery": "1939",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "1",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 300
+    },
+    "period": "7",
+    "symbol": "Fr"
+  },
+  {
+    "atomicMass": 226.02541,
+    "atomicNumber": "88",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1413
+    },
+    "category": "alkaline earth metal",
+    "commonName": "radium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 5
+    },
+    "discovery": "1898",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      }
+    ],
+    "generalState": "solid",
+    "group": "2",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 973
+    },
+    "period": "7",
+    "symbol": "Ra"
+  },
+  {
+    "atomicMass": 227.02775,
+    "atomicNumber": "89",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3471
+    },
+    "category": "actinide",
+    "commonName": "actinium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 10.07
+    },
+    "discovery": "1899",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "6d",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1324
+    },
+    "period": "7",
+    "symbol": "Ac"
+  },
+  {
+    "atomicMass": 232.038,
+    "atomicNumber": "90",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 5061
+    },
+    "category": "actinide",
+    "commonName": "thorium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 11.72
+    },
+    "discovery": "1828",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "6d",
+        "value": "2"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 2023
+    },
+    "period": "7",
+    "symbol": "Th"
+  },
+  {
+    "atomicMass": 231.03588,
+    "atomicNumber": "91",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 4273
+    },
+    "category": "actinide",
+    "commonName": "protactinium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 15.37
+    },
+    "discovery": "1913",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "2"
+      },
+      {
+        "shell": "6d",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1845
+    },
+    "period": "7",
+    "symbol": "Pa"
+  },
+  {
+    "atomicMass": 238.0289,
+    "atomicNumber": "92",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 4404
+    },
+    "category": "actinide",
+    "commonName": "uranium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 18.95
+    },
+    "discovery": "1789",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "3"
+      },
+      {
+        "shell": "6d",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1408
+    },
+    "period": "7",
+    "symbol": "U"
+  },
+  {
+    "atomicMass": 237.048172,
+    "atomicNumber": "93",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 4175
+    },
+    "category": "actinide",
+    "commonName": "neptunium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 20.25
+    },
+    "discovery": "1940",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "4"
+      },
+      {
+        "shell": "6d",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 917
+    },
+    "period": "7",
+    "symbol": "Np"
+  },
+  {
+    "atomicMass": 244.06420,
+    "atomicNumber": "94",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3501
+    },
+    "category": "actinide",
+    "commonName": "plutonium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 19.84
+    },
+    "discovery": "1940",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "6"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 913
+    },
+    "period": "7",
+    "symbol": "Pu"
+  },
+  {
+    "atomicMass": 243.061380,
+    "atomicNumber": "95",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 2284
+    },
+    "category": "actinide",
+    "commonName": "americium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 13.69
+    },
+    "discovery": "1944",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "7"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1449
+    },
+    "period": "7",
+    "symbol": "Am"
+  },
+  {
+    "atomicMass": 247.07035,
+    "atomicNumber": "96",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3400
+    },
+    "category": "actinide",
+    "commonName": "curium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 13.51
+    },
+    "discovery": "1944",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "7"
+      },
+      {
+        "shell": "6d",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1618
+    },
+    "period": "7",
+    "symbol": "Cm"
+  },
+  {
+    "atomicMass": 247.07031,
+    "atomicNumber": "97",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 2900
+    },
+    "category": "actinide",
+    "commonName": "berkelium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 14
+    },
+    "discovery": "1949",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "9"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1323
+    },
+    "period": "7",
+    "symbol": "Bk"
+  },
+  {
+    "atomicMass": 251.07959,
+    "atomicNumber": "98",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1745
+    },
+    "category": "actinide",
+    "commonName": "californium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 15.1
+    },
+    "discovery": "1950",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "10"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1173
+    },
+    "period": "7",
+    "symbol": "Cf"
+  },
+  {
+    "atomicMass": 252.0830,
+    "atomicNumber": "99",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1269
+    },
+    "category": "actinide",
+    "commonName": "einsteinium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 8.84
+    },
+    "discovery": "1952",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "11"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1133
+    },
+    "period": "7",
+    "symbol": "Es"
+  },
+  {
+    "atomicMass": 257.09511,
+    "atomicNumber": "100",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "category": "actinide",
+    "commonName": "fermium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 9.7
+    },
+    "discovery": "1952",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "12"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1800
+    },
+    "period": "7",
+    "symbol": "Fm"
+  },
+  {
+    "atomicMass": 258.09843,
+    "atomicNumber": "101",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "category": "actinide",
+    "commonName": "mendelevium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 10.3
+    },
+    "discovery": "1955",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "13"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1100
+    },
+    "period": "7",
+    "symbol": "Md"
+  },
+  {
+    "atomicMass": 259.10100,
+    "atomicNumber": "102",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "category": "actinide",
+    "commonName": "nobelium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 9.9
+    },
+    "discovery": "1957",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "14"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1100
+    },
+    "period": "7",
+    "symbol": "No"
+  },
+  {
+    "atomicMass": 266.120,
+    "atomicNumber": "103",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": "N/A"
+    },
+    "category": "actinide",
+    "commonName": "lawrencium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 14.4
+    },
+    "discovery": "1961",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "6"
+      },
+      {
+        "shell": "7s",
+        "value": "2"
+      },
+      {
+        "shell": "5f",
+        "value": "14"
+      },
+      {
+        "shell": "6d",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "actinides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1900
+    },
+    "period": "7",
+    "symbol": "Lr"
   }
 ]
