@@ -4890,7 +4890,261 @@
     },
     "period": "6",
     "symbol": "Hg"
-  }
-
+  },
+  {
+    "atomicMass": 204.383,
+    "atomicNumber": "81",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1746
+    },
+    "category": "post-transition metal",
+    "commonName": "thallium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 11.8
+    },
+    "discovery": "1861",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "13",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 577
+    },
+    "period": "6",
+    "symbol": "Tl"
+  },
+  {
+    "atomicMass": 207,
+    "atomicNumber": "82",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 2022
+    },
+    "category": "post-transition metal",
+    "commonName": "lead",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 11.342
+    },
+    "discovery": "Prehistory",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "2"
+      }
+    ],
+    "generalState": "solid",
+    "group": "14",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 600.61
+    },
+    "period": "6",
+    "symbol": "Pb"
+  },
+  {
+    "atomicMass": 208.98040,
+    "atomicNumber": "83",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1837
+    },
+    "category": "post-transition metal",
+    "commonName": "bismuth",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 9.807
+    },
+    "discovery": "1753",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      },
+      {
+        "shell": "6p",
+        "value": "3"
+      }
+    ],
+    "generalState": "solid",
+    "group": "15",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 544.55
+    },
+    "period": "6",
+    "symbol": "Bi"
+  },
 
 ]
