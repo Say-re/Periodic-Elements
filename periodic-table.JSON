@@ -2848,5 +2848,1318 @@
     },
     "period": "5",
     "symbol": "Xe"
+  },
+  {
+    "atomicMass": 132.9054520,
+    "atomicNumber": "55",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 944
+    },
+    "category": "alkali metal",
+    "commonName": "cesium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 1.93
+    },
+    "discovery": "1860",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "1",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 301.59
+    },
+    "period": "6",
+    "symbol": "Cs"
+  },
+  {
+    "atomicMass": 137.33,
+    "atomicNumber": "56",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 2170
+    },
+    "category": "alkaline earth metal",
+    "commonName": "barium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 3.62
+    },
+    "discovery": "1808",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      }
+    ],
+    "generalState": "solid",
+    "group": "2",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1000
+    },
+    "period": "6",
+    "symbol": "Ba"
+  },
+  {
+    "atomicMass": 138.9055,
+    "atomicNumber": "57",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3737
+    },
+    "category": "lanthanide",
+    "commonName": "lanthanum",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 6.15
+    },
+    "discovery": "1839",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "5d",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "3",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1191
+    },
+    "period": "6",
+    "symbol": "La"
+  },
+  {
+    "atomicMass": 140.116,
+    "atomicNumber": "58",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3697
+    },
+    "category": "lanthanide",
+    "commonName": "cerium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 6.770
+    },
+    "discovery": "1803",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "1"
+      },
+      {
+        "shell": "5d",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "lanthanides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1071
+    },
+    "period": "8",
+    "symbol": "Ce"
+  },
+  {
+    "atomicMass": 140.90766,
+    "atomicNumber": "59",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3793
+    },
+    "category": "lanthanide",
+    "commonName": "Praseodymium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 6.77
+    },
+    "discovery": "1885",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "3"
+      }
+    ],
+    "generalState": "solid",
+    "group": "lanthanides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1204
+    },
+    "period": "8",
+    "symbol": "Pr"
+  },
+  {
+    "atomicMass": 144.24,
+    "atomicNumber": "60",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3347
+    },
+    "category": "lanthanide",
+    "commonName": "Neodymium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 7.01
+    },
+    "discovery": "1885",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "4"
+      }
+    ],
+    "generalState": "solid",
+    "group": "lanthanides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1294
+    },
+    "period": "8",
+    "symbol": "Nd"
+  },
+  {
+    "atomicMass": 144.91276,
+    "atomicNumber": "61",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3273
+    },
+    "category": "lanthanide",
+    "commonName": "promethium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 7.26
+    },
+    "discovery": "1945",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "5"
+      }
+    ],
+    "generalState": "solid",
+    "group": "lanthanide",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1315
+    },
+    "period": "lanthanides",
+    "symbol": "Pm"
+  },
+  {
+    "atomicMass": 150.4,
+    "atomicNumber": "62",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 2067
+    },
+    "category": "lanthanide",
+    "commonName": "samarium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 7.52
+    },
+    "discovery": "1879",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "6"
+      }
+    ],
+    "generalState": "solid",
+    "group": "lanthanides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1347
+    },
+    "period": "8",
+    "symbol": "Sm"
+  },
+  {
+    "atomicMass": 151.964,
+    "atomicNumber": "63",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1802
+    },
+    "category": "lanthanide",
+    "commonName": "europium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 5.24
+    },
+    "discovery": "1901",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "7"
+      }
+    ],
+    "generalState": "solid",
+    "group": "lanthanides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1315
+    },
+    "period": "8",
+    "symbol": "Eu"
+  },
+  {
+    "atomicMass": 157.2,
+    "atomicNumber": "64",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3546
+    },
+    "category": " lanthanide",
+    "commonName": "gadolinium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 7.90
+    },
+    "discovery": "1880",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "7"
+      },
+      {
+        "shell": "5d",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "lanthanides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1586
+    },
+    "period": "8",
+    "symbol": "Gd"
+  },
+  {
+    "atomicMass": 158.92535,
+    "atomicNumber": "65",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3503
+    },
+    "category": "lanthanide",
+    "commonName": "terbium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 8.23
+    },
+    "discovery": "1843",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "9"
+      }
+    ],
+    "generalState": "solid",
+    "group": "lanthanides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1629
+    },
+    "period": "8",
+    "symbol": "Tb"
+  },
+  {
+    "atomicMass": 162.500,
+    "atomicNumber": "66",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 2840
+    },
+    "category": "lanthanide",
+    "commonName": "dysprosium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 8.55
+    },
+    "discovery": "1886",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "10"
+      }
+    ],
+    "generalState": "solid",
+    "group": "lanthanides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1685
+    },
+    "period": "8",
+    "symbol": "Dy"
+  },
+  {
+    "atomicMass": 164.93033,
+    "atomicNumber": "67",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 2973
+    },
+    "category": "lanthanide",
+    "commonName": "holmium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 8.80
+    },
+    "discovery": "1878",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "11"
+      }
+    ],
+    "generalState": "solid",
+    "group": "lanthanides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1747
+    },
+    "period": "8",
+    "symbol": "Ho"
+  },
+  {
+    "atomicMass": 167.2,
+    "atomicNumber": "68",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3141
+    },
+    "category": "lanthanide",
+    "commonName": "erbium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 9.07
+    },
+    "discovery": "1843",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "12"
+      }
+    ],
+    "generalState": "solid",
+    "group": "lanthanides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1802
+    },
+    "period": "8",
+    "symbol": "Er"
+  },
+  {
+    "atomicMass": 168.93422,
+    "atomicNumber": "69",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 2223
+    },
+    "category": "lanthanide",
+    "commonName": "thulium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 9.32
+    },
+    "discovery": "1879",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "13"
+      }
+    ],
+    "generalState": "solid",
+    "group": "lanthanides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1818
+    },
+    "period": "8",
+    "symbol": "Tm"
+  },
+  {
+    "atomicMass": 173.05,
+    "atomicNumber": "70",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1469
+    },
+    "category": "lanthanide",
+    "commonName": "ytterbium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 6.90
+    },
+    "discovery": "1878",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      }
+    ],
+    "generalState": "solid",
+    "group": "lanthanides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1092
+    },
+    "period": "8",
+    "symbol": "Yb"
+  },
+  {
+    "atomicMass": 174.9668,
+    "atomicNumber": "71",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3675
+    },
+    "category": "lanthanide",
+    "commonName": "lutetium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 9.84
+    },
+    "discovery": "1907",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "1"
+      }
+    ],
+    "generalState": "solid",
+    "group": "lanthanides",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1936
+    },
+    "period": "8",
+    "symbol": "Lu"
   }
 ]
