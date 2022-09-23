@@ -4161,5 +4161,736 @@
     },
     "period": "8",
     "symbol": "Lu"
+  },
+  {
+    "atomicMass": 178.49,
+    "atomicNumber": "72",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 4876
+    },
+    "category": "transition metal",
+    "commonName": "hafnium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 13.3
+    },
+    "discovery": "1923",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "2"
+      }
+    ],
+    "generalState": "solid",
+    "group": "4",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 2506
+    },
+    "period": "7",
+    "symbol": "Hf"
+  },
+  {
+    "atomicMass": 180.9479,
+    "atomicNumber": "73",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 5371
+    },
+    "category": "transition metal",
+    "commonName": "tantalum",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 16.4
+    },
+    "discovery": "1802",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "3"
+      }
+    ],
+    "generalState": "solid",
+    "group": "5",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3290
+    },
+    "period": "6",
+    "symbol": "Ta"
+  },
+  {
+    "atomicMass": 183.84,
+    "atomicNumber": "74",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 5828
+    },
+    "category": "transition metal",
+    "commonName": "tungsten",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 19.3
+    },
+    "discovery": "1793",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "4"
+      }
+    ],
+    "generalState": "solid",
+    "group": "6",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3695
+    },
+    "period": "6",
+    "symbol": "W"
+  },
+  {
+    "atomicMass": 186.207,
+    "atomicNumber": "75",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 5869
+    },
+    "category": "transition metal",
+    "commonName": "rhenium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 20.8
+    },
+    "discovery": "1925",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "5"
+      }
+    ],
+    "generalState": "solid",
+    "group": "7",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3459
+    },
+    "period": "6",
+    "symbol": "Re"
+  },
+  {
+    "atomicMass": 190.2,
+    "atomicNumber": "76",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 5285
+    },
+    "category": "transition metal",
+    "commonName": "osmium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 22.57
+    },
+    "discovery": "1803",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "6"
+      }
+    ],
+    "generalState": "solid",
+    "group": "8",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3306
+    },
+    "period": "6",
+    "symbol": "Os"
+  },
+  {
+    "atomicMass": 192.22,
+    "atomicNumber": "77",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 4701
+    },
+    "category": "transition metal",
+    "commonName": "iridium",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 4701
+    },
+    "discovery": "1803",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "7"
+      }
+    ],
+    "generalState": "solid",
+    "group": "9",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 2719
+    },
+    "period": "6",
+    "symbol": "Ir"
+  },
+  {
+    "atomicMass": 195.08,
+    "atomicNumber": "78",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 4098
+    },
+    "category": "transition metal",
+    "commonName": "platinum",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 21.46
+    },
+    "discovery": "1735",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "1"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "9"
+      }
+    ],
+    "generalState": "solid",
+    "group": "10",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 2041.55
+    },
+    "period": "6",
+    "symbol": "Pt"
+  },
+  {
+    "atomicMass": 196.96657,
+    "atomicNumber": "79",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 3129
+    },
+    "category": "transition metal",
+    "commonName": "gold",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 19.282
+    },
+    "discovery": "Prehistory",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "1"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      }
+    ],
+    "generalState": "solid",
+    "group": "11",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 1137.33
+    },
+    "period": "6",
+    "symbol": "Au"
+  },
+  {
+    "atomicMass": 200.59,
+    "atomicNumber": "80",
+    "boilingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 629.88
+    },
+    "category": "transition metal",
+    "commonName": "mercury",
+    "density": {
+      "unitOfMeasurement": "g/cm3",
+      "value": 13.5336
+    },
+    "discovery": "Prehistory",
+    "electronConfiguration": [
+      {
+        "shell": "1s",
+        "value": "2"
+      },
+      {
+        "shell": "2s",
+        "value": "2"
+      },
+      {
+        "shell": "2p",
+        "value": "6"
+      },
+      {
+        "shell": "3s",
+        "value": "2"
+      },
+      {
+        "shell": "3p",
+        "value": "6"
+      },
+      {
+        "shell": "4s",
+        "value": "2"
+      },
+      {
+        "shell": "3d",
+        "value": "10"
+      },
+      {
+        "shell": "4p",
+        "value": "6"
+      },
+      {
+        "shell": "5s",
+        "value": "2"
+      },
+      {
+        "shell": "4d",
+        "value": "10"
+      },
+      {
+        "shell": "5p",
+        "value": "6"
+      },
+      {
+        "shell": "6s",
+        "value": "2"
+      },
+      {
+        "shell": "4f",
+        "value": "14"
+      },
+      {
+        "shell": "5d",
+        "value": "10"
+      }
+    ],
+    "generalState": "liquid",
+    "group": "12",
+    "meltingPoint": {
+      "unitOfMeasurement": "K",
+      "value": 234.32
+    },
+    "period": "6",
+    "symbol": "Hg"
   }
+
+
 ]
